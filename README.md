@@ -1,21 +1,25 @@
 # React-typescript-Workshop
+
 Construire une Application de Connexion et de Liste de Tâches avec React, TypeScript, Flexbox, Grid & Routage
 
-1. Introduction à React et TypeScript
-   
-Les Bases de React
-Ressource : https://react.dev/blog/2023/03/16/introducing-react-dev
-TypeScript dans React
-Ressource : https://www.typescriptlang.org/docs/handbook/react.html
+1. **Introduction à React et TypeScript**
+
+* Les Bases de React
+* Ressource : https://react.dev/blog/2023/03/16/introducing-react-dev
+* TypeScript dans React
+* Ressource : https://www.typescriptlang.org/docs/handbook/react.html
 
 2. Configuration de l'Environnement et du Projet
-Mise en Place de l'Environnement de Développement
-Installer Node.js et npm.
+   Mise en Place de l'Environnement de Développement
+   Installer Node.js et npm.
 
-Créer un nouveau projet en utilisant Create React App avec le modèle TypeScript : npx create-react-app mon-app --template typescript.
-Ressource : https://create-react-app.dev/docs/adding-typescript/
+* Créer un nouveau projet en utilisant Create React App avec le modèle TypeScript : npx create-react-app mon-app --template typescript.
+  
+* Ressource : https://create-react-app.dev/docs/adding-typescript/
 
-3. Fondamentaux de React et Introduction au Routage
+Fondamentaux de React et Introduction au Routage
+
+
 Composants Fonctionnels et Hooks
 Créer un simple composant fonctionnel.
 Ressource : https://fr.legacy.reactjs.org/docs/hooks-overview.html
@@ -40,10 +44,9 @@ Implémenter la fonctionnalité pour ajouter et basculer l'état des tâches.
 Ressource pour l'état et le cycle de vie : État et Cycle de Vie
 
 6. Implémentation de la Navigation
-Navigation avec React Router
-Naviguer vers TodoList après une connexion réussie.
-Ressource : https://www.programcreek.com/typescript/?api=react-router-dom.useNavigate
-
+   Navigation avec React Router
+   Naviguer vers TodoList après une connexion réussie.
+   Ressource : https://www.programcreek.com/typescript/?api=react-router-dom.useNavigate
 7. Stylisation avec Flexbox et Grid
 
 Flexbox
