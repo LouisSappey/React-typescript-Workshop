@@ -4,9 +4,9 @@ Construire une Application de Connexion et de Liste de Tâches avec React, TypeS
 
 **Introduction à React et TypeScript**
 
-* Les Bases de React
+* **Les Bases de React**
 * Ressource : https://react.dev/blog/2023/03/16/introducing-react-dev
-* TypeScript dans React
+* **TypeScript dans React**
 * Ressource : https://www.typescriptlang.org/docs/handbook/react.html
 
 **Configuration de l'Environnement et du Projet**
@@ -35,13 +35,12 @@ Installer Node.js et npm.
 * Créer un composant Login avec un état pour le nom d'utilisateur et le mot de passe.
 * Implémenter un gestionnaire de clic pour "se connecter"
 * Ressource pour la gestion des événements : https://fr.legacy.reactjs.org/docs/handling-events.html
-* Tuto Log In / Register: https://medium.com/@prabhashi.mm/create-a-simple-react-app-typescript-with-login-register-pages-using-create-react-app-e5c12dd6db53
 
 **Composants de la ToDoList**
 
 * Créer les composants TodoList et TodoItem pour afficher les tâches.
 * Implémenter la fonctionnalité pour ajouter et basculer l'état des tâches.
-* Ressource pour l'état et le cycle de vie : État et Cycle de Vie
+* Ressource pour l'état et le cycle de vie : https://www.freecodecamp.org/news/react-component-lifecycle-methods/
 
 **Implémentation de la Navigation**
 
@@ -51,17 +50,21 @@ Installer Node.js et npm.
 
 **Stylisation avec Flexbox et Grid**
 
-* Flexbox
+* **Flexbox**
 * Utiliser Flexbox pour styliser le composant Login.
-* Ressource : Un Guide Complet de Flexbox
-* Grid
+* Ressource : https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* **Grid**
 * Utiliser Grid pour organiser le composant TodoList.
-* Ressource : Un Guide Complet de Grid
+* Ressource : https://css-tricks.com/snippets/css/complete-guide-grid/
+
+**Sauvegarder les élements avec localStorage:**
+
+* Ressource: https://blog.logrocket.com/using-localstorage-react-hooks/
 
 **Ressources Supplémentaires**
 
-* Flexbox
+* **Flexbox**
 * Flexbox Froggy - Un jeu qui aide à apprendre https://flexboxfroggy.com/#fr
-* CSS Grid
+* **CSS Grid**
 * Grid Garden - Un jeu pour apprendre le système de grille CSS. https://cssgridgarden.com/#fr
-* React Router
+* Tuto Log In / Register : https://medium.com/@prabhashi.mm/create-a-simple-react-app-typescript-with-login-register-pages-using-create-react-app-e5c12dd6db53
