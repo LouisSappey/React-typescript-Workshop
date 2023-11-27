@@ -84,6 +84,7 @@ https://www.digitalocean.com/community/tutorials/react-axios-react
 Avant d'implementer note ToDoList nous voulons que lorsqu'on nous nous sommes connecter être redirigé à notre ToDoList.
 
 Il faut donc crée notre component de ToDoList et l'ajouter a notre React Router et gerer la navigation après la connection.
+
 **Implémentation de la Navigation**
 
 * Navigation avec React Router
@@ -94,6 +95,7 @@ Il faut donc crée notre component de ToDoList et l'ajouter a notre React Router
 * Créer les composants TodoList et TodoItem pour afficher les tâches.
 * Implémenter la fonctionnalité pour ajouter et basculer l'état des tâches.
 * Ressource pour l'état et le cycle de vie : [https://www.freecodecamp.org/news/react-component-lifecycle-methods/]()
+* Il y a de nombreux packages de ToDoList en React Typescript mais le mieux est de la faire sois mêmes pour la modifier comme on le souhaite.
 
 
 **Documentations Utiles
