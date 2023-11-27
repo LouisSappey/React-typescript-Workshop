@@ -1,5 +1,5 @@
 
-<pre><div class="bg-black rounded-md"><div class="p-4 overflow-y-auto"><code class="!whitespace-pre hljs language-markdown">![Alt text](https://github.com/LouisSappey/React-typescript-Workshop/blob/main/React-icon.png?raw=true)
+<pre><div class="bg-black rounded-md"><div class="p-4 overflow-y-auto"><code class="!whitespace-pre hljs language-markdown">![alt text](https://github.com/LouisSappey/React-typescript-Workshop/blob/main/React-icon.png?raw=true)
 </code></div></div></pre>
 
 
