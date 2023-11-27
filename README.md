@@ -83,7 +83,8 @@ https://www.digitalocean.com/community/tutorials/react-axios-react
 
 Avant d'implementer note ToDoList nous voulons que lorsqu'on nous nous sommes connecter être redirigé à notre ToDoList.
 
-Ajouter un dossier components et dedans crée une fichier ToDoList.tsx c'est ici que nous allons crée notre ToDoList:
+Ajouter un dossier components et dedans crée une fichier ToDoList.tsx c'est ici que nous allons crée notre ToDoList.
+
 Noublier pas d'export votre function pour pouvoir la récuperer.
 
 
