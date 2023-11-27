@@ -1,5 +1,5 @@
 
-![React-icon](https://github.com/LouisSappey/React-typescript-Workshop/assets/72028359/1553281c-a020-401a-8dd5-47951bbbc90d)
+![react](https://github.com/LouisSappey/React-typescript-Workshop/assets/72028359/7ca84ad5-9fc3-4186-94c4-a082c7746d93)
 
 # React-typescript-Workshop
 
