@@ -73,6 +73,9 @@ Nous allons simulé une veritable connection avec une Api en ligne:
 
 <img width="609" alt="Capture d’écran 2023-11-27 à 09 45 12" src="https://github.com/LouisSappey/React-typescript-Workshop/assets/72028359/37c6feea-5fc7-49ca-a819-a3302ca0217c">
 
+Vous pouvez utiliser axios pour votre POST call api:
+https://www.digitalocean.com/community/tutorials/react-axios-react
+
 
 
 **Etape 3: Création de note TodoList**
