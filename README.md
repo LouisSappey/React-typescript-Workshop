@@ -1,7 +1,5 @@
 
-<pre><div class="bg-black rounded-md"><div class="p-4 overflow-y-auto"><code class="!whitespace-pre hljs language-markdown">![alt text](https://github.com/LouisSappey/React-typescript-Workshop/blob/main/React-icon.png?raw=true)
-</code></div></div></pre>
-
+![React-icon](https://github.com/LouisSappey/React-typescript-Workshop/assets/72028359/1553281c-a020-401a-8dd5-47951bbbc90d)
 
 # React-typescript-Workshop
 
@@ -67,15 +65,15 @@ Nous allons simulé une veritable connection avec une Api en ligne:
 
 * Allez sur ce lien: https://reqres.in/
 * Cliquez sur:
+<img width="314" alt="Capture d’écran 2023-11-27 à 09 40 33" src="https://github.com/LouisSappey/React-typescript-Workshop/assets/72028359/797853e5-e837-4414-accd-751094d0226b">
 
-<pre><div class="bg-black rounded-md"><div class="p-4 overflow-y-auto"><code class="!whitespace-pre hljs language-markdown">![Alt text](https://github.com/LouisSappey/React-typescript-Workshop/blob/main/Login.png)
-</code></div></div></pre>
+
 
 * Puis utliser les informations donnez en faisant un call api sur l'url donner avec l'utilisateur donner et le mot de passe(Si vous voulez implementer la methode register libre a vous)
 
+<img width="609" alt="Capture d’écran 2023-11-27 à 09 45 12" src="https://github.com/LouisSappey/React-typescript-Workshop/assets/72028359/37c6feea-5fc7-49ca-a819-a3302ca0217c">
 
-<pre><div class="bg-black rounded-md"><div class="p-4 overflow-y-auto"><code class="!whitespace-pre hljs language-markdown">![Alt text](https://github.com/LouisSappey/React-typescript-Workshop/blob/main/Api.png?raw=true)
-</code></div></div></pre>
+
 
 **Etape 3: Création de note TodoList**
 
