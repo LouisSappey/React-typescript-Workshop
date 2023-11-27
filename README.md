@@ -60,6 +60,8 @@ Installer Node.js et npm.
 * Ressource pour la gestion des événements : [https://fr.legacy.reactjs.org/docs/handling-events.html]()
 * Ressource pour votre page Login: https://www.publish0x.com/how-to-build-a-login-form-in-react-and-typescript/build-a-login-form-using-react-and-typescript-xwylgzl
 
+* Si vous voulez ameliorez vos compétences en styles vous pouvez voirs les documentations plus bas.
+
 **Call Api:**
 
 Nous allons simulé une veritable connection avec une Api en ligne:
