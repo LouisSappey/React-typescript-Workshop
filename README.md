@@ -18,8 +18,10 @@ Installer Node.js et npm.
 
 * Créer un nouveau projet en utilisant Create React App avec le modèle TypeScript : npx create-react-app mon-app --template typescript.
 * Ressource : https://create-react-app.dev/docs/adding-typescript/
-
-
+* Une fois set up allez dans votre app:
+* cd my-app
+* Pour la lancer faite:
+* npm start
 
 **Fondamentaux de React et Introduction au Routage**
 
