@@ -58,6 +58,7 @@ Installer Node.js et npm.
 * Implémenter un gestionnaire de clic pour "se connecter"
 * Un champ pour l'email et un champ pour le mot de passe
 * Ressource pour la gestion des événements : [https://fr.legacy.reactjs.org/docs/handling-events.html]()
+* Ressource pour votre page Login: https://www.publish0x.com/how-to-build-a-login-form-in-react-and-typescript/build-a-login-form-using-react-and-typescript-xwylgzl
 
 **Call Api:**
 
