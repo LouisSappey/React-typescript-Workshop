@@ -102,7 +102,7 @@ Noublier pas d'export votre function pour pouvoir la récuperer.
 * Créer les composants TodoList et TodoItem pour afficher les tâches.
 * Implémenter la fonctionnalité pour ajouter et basculer l'état des tâches.
 * Ressource pour l'état et le cycle de vie : [https://www.freecodecamp.org/news/react-component-lifecycle-methods/]()
-* Il y a de nombreux packages de ToDoList en React Typescript mais le mieux est de la faire sois mêmes pour la modifier comme on le souhaite.
+* Il existe de nombreux packages de ToDoList si vous n'y arrivez pas sans n'hesiter pas a en utiliser un ! Vous pourez vous concentrer sur tous ce qui est flexbox et grid qui sont essentiels pour la construction d'une application/siteWeb responsive et beau !
 
 
 **Documentations Utiles
