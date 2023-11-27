@@ -12,6 +12,8 @@ Construire une Application de Connexion et de Liste de Tâches avec React, TypeS
 * **TypeScript dans React**
 * Ressource : https://www.typescriptlang.org/docs/handbook/react.html
 
+
+
 **Etape 0 : Installation et installation du projet
 **Configuration de l'Environnement et du Projet****
 
@@ -32,6 +34,8 @@ Installer Node.js et npm.
   npm start
   ```
 
+
+
 **Etape 1: Mise en place de React Routter**
 **Fondamentaux de React et Introduction au Routage**
 
@@ -46,6 +50,8 @@ Installer Node.js et npm.
 * Ressource : [https://www.codingthesmartway.com/7-steps-to-get-started-with-react-routing/]()
 * Votre index.tsx devrait ressembler a peu près a ça:
 <img width="609" alt="Capture d’écran 2023-11-27 à 10 10 59" src="https://github.com/LouisSappey/React-typescript-Workshop/assets/72028359/6e927957-ed24-4612-a21e-f0ed921226bb">
+
+
 
 **Etape 2: Création de nos page Login**
 **Construction des Composants de l'Application**
@@ -76,6 +82,8 @@ Nous allons simulé une veritable connection avec une Api en ligne:
 
 Vous pouvez utiliser axios pour votre POST call api:
 https://www.digitalocean.com/community/tutorials/react-axios-react
+
+
 
 
 
