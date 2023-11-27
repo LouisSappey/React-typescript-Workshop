@@ -117,6 +117,8 @@ Stylisation avec Flexbox et Grid**
 
 **Sauvegarder les élements avec localStorage:**
 
+* C'est une lib très utiles qui permet de sauvegarder des élements sur votre app sans backend !
+
 * Ressource:[ https://blog.logrocket.com/using-localstorage-react-hooks/]()
 
 **Ressources Supplémentaires**
