@@ -91,6 +91,8 @@ Noublier pas d'export votre function pour pouvoir la récuperer.
 <img width="162" alt="Capture d’écran 2023-11-27 à 10 17 01" src="https://github.com/LouisSappey/React-typescript-Workshop/assets/72028359/5b3c3567-2a64-4c5d-bf01-6fb7465f4bb4">
 
 Votre React Router aussi devra etre changer :
+
+
 <img width="678" alt="Capture d’écran 2023-11-27 à 10 31 39" src="https://github.com/LouisSappey/React-typescript-Workshop/assets/72028359/81767012-84d1-4e20-ae40-77a02ed8e40d">
 
 
