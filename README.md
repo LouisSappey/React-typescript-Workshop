@@ -44,16 +44,12 @@ Installer Node.js et npm.
 * Installer React Router : npm install react-router-dom.
 * Configurer BrowserRouter et Routes.
 * Ressource : [https://www.codingthesmartway.com/7-steps-to-get-started-with-react-routing/]()
+* Votre index.tsx devrait ressembler a peu près a ça:
+<img width="609" alt="Capture d’écran 2023-11-27 à 10 10 59" src="https://github.com/LouisSappey/React-typescript-Workshop/assets/72028359/6e927957-ed24-4612-a21e-f0ed921226bb">
 
-**Implémentation de la Navigation**
-
-* Navigation avec React Router
-* Ressource : [https://www.programcreek.com/typescript/?api=react-router-dom.useNavigate]()
-
-**Etape 2: Création de nos page Login/Register**
+**Etape 2: Création de nos page Login**
 **Construction des Composants de l'Application**
-
-* Composant de Connexion
+Nous allons directement faire notre page Login dans App.tsx
 * Créer un composant Login avec un état pour le nom d'utilisateur et le mot de passe.
 * Implémenter un gestionnaire de clic pour "se connecter"
 * Un champ pour l'email et un champ pour le mot de passe
@@ -86,6 +82,10 @@ https://www.digitalocean.com/community/tutorials/react-axios-react
 Avant d'implementer note ToDoList nous voulons que lorsqu'on nous nous sommes connecter être redirigé à notre ToDoList.
 
 Il faut donc crée notre component de ToDoList et l'ajouter a notre React Router et gerer la navigation après la connection.
+**Implémentation de la Navigation**
+
+* Navigation avec React Router
+* Ressource : [https://www.programcreek.com/typescript/?api=react-router-dom.useNavigate]()
 
 **Composants de la ToDoList**
 
